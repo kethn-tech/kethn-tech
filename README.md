@@ -1,4 +1,4 @@
- # Hi there  I'm [Kethan Ayatti]
+ # Hi there  I'm Kethan Ayatti
  
 ##  About Me- BCA 3rd Year Student passionate about Cybersecurity & Cloud Computing- Full Stack Developer with expertise in MERN Stack- Currently learning DevOps and Cloud Technologies
 
