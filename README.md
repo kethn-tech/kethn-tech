@@ -1,17 +1,20 @@
-# Hi 👋, I'm [kethan Ayatti]
+ # Hi there  I'm [Kethan Ayatti]
+ 
+##  About Me- BCA 3rd Year Student passionate about Cybersecurity & Cloud Computing- Full Stack Developer with expertise in MERN Stack- Currently learning DevOps and Cloud Technologies
 
-# My Awesome Project
-!soon
-## Skills
+ ##  Technologies & Tools
+ ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
+ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=java)
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+ ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-00B140?style=for-the-badge&logo=MongoDB&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)
+ ##  GitHub Stats
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&sho
 
+ ##  Featured Projects-  [Cybersecurity Toolkit](link) - Network security analysis tools-  [Real-time Chat Application](link) - MERN stack with Socket.io-  [NLP Chatbot](link) - Python-based conversational AI
 
-## Description
-This repository contains projects developed using the MERN stack , C++ , JavaScript and Python .
-
+ ##  Connect with me
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedi
+ [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=port
