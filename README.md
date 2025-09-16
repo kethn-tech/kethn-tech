@@ -21,6 +21,6 @@
  [NLP Chatbot](link) - Python-based conversational AI
 
  ##  Connect with me
- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethanayatti/)
  
- ![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=port)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=port)](https://kethanportfolio.netlify.app/)
