@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 
-  <h1 align="center">Hi there, I'm Kethan Ayatti 👋</h1>
+  <h1 align="center">Hi there, I'm Ketan Ayatti 👋</h1>
   <h3 align="center">Aspiring Cloud Security Engineer | MERN Stack Developer | DevOps Enthusiast</h3>
 </div>
 
@@ -88,6 +88,6 @@ I'm a third-year BCA student at KLE Technological University, passionate about t
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kethn-tech&show_icons=true&theme=radical" alt="Kethan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kethn-tech&show_icons=true&theme=radical" alt="Ketan's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethn-tech&layout=compact&theme=radical" alt="Top Langs">
 </div>
