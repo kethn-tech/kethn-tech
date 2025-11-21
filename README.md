@@ -28,12 +28,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **BCA student** at **KLE Technological University** [cite: 8] passionate about bridging the gap between **Software Development** and **Cloud Security**. My focus is on designing secure, scalable cloud-native infrastructures using **AWS** and **Docker**.
+I am a **BCA student** at **KLE Technological University** [cite: 8] passionate about bridging the gap between **Software Development** and **Cloud Security**. My focus is on designing secure, scalable cloud-native infrastructures using **AWS** and **Docker**.
 
 * 🔭 I’m currently working on **DevSecOps pipelines** and **Container Security**.
 * 🌱 I’m currently learning **Advanced Terraform** and **Network Security**.
-* [cite_start]☁️ **Cloud Focus:** AWS & Oracle Cloud Infrastructure (OCI)[cite: 19].
-* [cite_start]⚡ **Fun fact:** I led my college Chess Team and love strategic thinking[cite: 42]!
+* ☁️ **Cloud Focus:** AWS & Oracle Cloud Infrastructure (OCI)[cite: 19].
+* ⚡ **Fun fact:** I led my college Chess Team and love strategic thinking[cite: 42]!
 
 ---
 
@@ -51,20 +51,20 @@
 
 ### 🚀 Featured Projects
 
-#### [cite_start]🔒 **[Communiatec - Secure Community Platform](https://github.com/ketanayatti/Communiatec)** [cite: 21]
+#### 🔒 **[Communiatec - Secure Community Platform](https://github.com/ketanayatti/Communiatec)** [cite: 21]
 *A secure platform designed for community connections with a focus on data privacy.*
-* [cite_start]**Tech Stack:** AWS (EC2, S3), Docker, MERN Stack, Nginx, Socket.io[cite: 22].
+* **Tech Stack:** AWS (EC2, S3), Docker, MERN Stack, Nginx, Socket.io[cite: 22].
 * **Key Features:**
-    * [cite_start]🛡️ Engineered an encrypted "Vault" using **AES-256-GCM** for secure cloud storage[cite: 23].
-    * [cite_start]🔐 Implemented **RBAC** (Role-Based Access Control) and input sanitization to prevent injection attacks[cite: 25].
-    * [cite_start]💬 Real-time chat with **Gemini AI** integration and JWT-based authentication[cite: 26].
+    * 🛡️ Engineered an encrypted "Vault" using **AES-256-GCM** for secure cloud storage[cite: 23].
+    * 🔐 Implemented **RBAC** (Role-Based Access Control) and input sanitization to prevent injection attacks[cite: 25].
+    * 💬 Real-time chat with **Gemini AI** integration and JWT-based authentication[cite: 26].
 
 #### [cite_start]🤖 **[Chatzy - AI-Powered Assistant](https://github.com/ketanayatti/Chatzy)** [cite: 29]
 *Intelligent chatbot built for seamless interaction.*
-* [cite_start]**Tech Stack:** Python, REST API, HTML5/CSS3[cite: 30].
+* **Tech Stack:** Python, REST API, HTML5/CSS3[cite: 30].
 * **Key Features:**
-    * [cite_start]Developed using **Natural Language Processing (NLP)** for contextual responses[cite: 31].
-    * [cite_start]Custom REST API for smooth frontend-backend communication[cite: 32].
+    * Developed using **Natural Language Processing (NLP)** for contextual responses[cite: 31].
+    * Custom REST API for smooth frontend-backend communication[cite: 32].
 
 ---
 
@@ -86,13 +86,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanayatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanayatti&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
 ---
 
 <div align="center">
