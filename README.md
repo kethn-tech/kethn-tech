@@ -1,93 +1,100 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
-
-  <h1 align="center">Hi there, I'm Ketan Ayatti 👋</h1>
-  <h3 align="center">Aspiring Cloud Security Engineer | MERN Stack Developer | DevOps Enthusiast</h3>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" style="border-radius: 10px;" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/ketanayatti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Cloud+Security+Enthusiast;Building+Secure+Cloud-Native+Infrastructure;MERN+Stack+Developer;Exploring+DevSecOps+&Docker" alt="Typing SVG" />
   </a>
-  <a href="https://kethanportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+
+  <br/>
+
+  <a href="https://linkedin.com/in/ketanayatti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:kethanayatti333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ketanayatti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </div>
 
-***
+---
 
-### 🛡️ About Me
+### 👨‍💻 About Me
 
-I'm a third-year BCA student at KLE Technological University, passionate about the intersection of software development, cloud infrastructure, and cybersecurity. I enjoy building robust applications and then figuring out how to deploy and defend them in a cloud-native environment. My goal is to build a career in DevSecOps, creating secure and resilient systems.
+[cite_start]I am a **BCA student** at **KLE Technological University** [cite: 8] passionate about bridging the gap between **Software Development** and **Cloud Security**. My focus is on designing secure, scalable cloud-native infrastructures using **AWS** and **Docker**.
 
-***
+* 🔭 I’m currently working on **DevSecOps pipelines** and **Container Security**.
+* 🌱 I’m currently learning **Advanced Terraform** and **Network Security**.
+* [cite_start]☁️ **Cloud Focus:** AWS & Oracle Cloud Infrastructure (OCI)[cite: 19].
+* [cite_start]⚡ **Fun fact:** I led my college Chess Team and love strategic thinking[cite: 42]!
 
-### 💻 My Tech Stack
+---
 
-<table>
-  <tr>
-    <td align="center"><strong>Cloud & Security</strong></td>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Databases</strong></td>
-    <td align="center"><strong>DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-      <img src="https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
-    </td>
-  </tr>
-</table>
-
-***
-
-### 🚀 My Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>TechTalke - Secure Chat Platform</h3>
-      <p>A full-featured MERN stack chat application with real-time messaging via Socket.io. Focused on secure deployment using Docker containers and cloud platforms like Railway. Features include user authentication, group chats, and a foundation for end-to-end encryption.</p>
-      <a href="https://github.com/ketanayatti/Techtalke.git" target="_blank">View on GitHub</a>
-    </td>
-    <td width="50%">
-      <h3>Chatzy - AI Chatbot Assistant</h3>
-      <p>An intelligent chatbot built with Python and JavaScript, using a REST API for seamless frontend-backend communication. Explores Natural Language Processing (NLP) for contextual response generation. A great exercise in API design and user experience.</p>
-      <a href="https://github.com/ketanayatti/Chatzy.git" target="_blank">View on GitHub</a>
-    </td>
-  </tr>
-</table>
-
-***
-
-### 📊 My GitHub Stats
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=radical" alt="Ketan's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanayatti&layout=compact&theme=radical" alt="Top Langs">
+
+| **Cloud & DevOps** | **Languages** | **MERN Stack & Web** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux" /> | <img src="https://skillicons.dev/icons?i=java,py,js,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" /> |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+#### [cite_start]🔒 **[Communiatec - Secure Community Platform](https://github.com/ketanayatti/Communiatec)** [cite: 21]
+*A secure platform designed for community connections with a focus on data privacy.*
+* [cite_start]**Tech Stack:** AWS (EC2, S3), Docker, MERN Stack, Nginx, Socket.io[cite: 22].
+* **Key Features:**
+    * [cite_start]🛡️ Engineered an encrypted "Vault" using **AES-256-GCM** for secure cloud storage[cite: 23].
+    * [cite_start]🔐 Implemented **RBAC** (Role-Based Access Control) and input sanitization to prevent injection attacks[cite: 25].
+    * [cite_start]💬 Real-time chat with **Gemini AI** integration and JWT-based authentication[cite: 26].
+
+#### [cite_start]🤖 **[Chatzy - AI-Powered Assistant](https://github.com/ketanayatti/Chatzy)** [cite: 29]
+*Intelligent chatbot built for seamless interaction.*
+* [cite_start]**Tech Stack:** Python, REST API, HTML5/CSS3[cite: 30].
+* **Key Features:**
+    * [cite_start]Developed using **Natural Language Processing (NLP)** for contextual responses[cite: 31].
+    * [cite_start]Custom REST API for smooth frontend-backend communication[cite: 32].
+
+---
+
+### 🏆 Certifications
+
+| Badge | Certification | Issuer |
+| :---: | :--- | :--- |
+| ☁️ | [cite_start]**AWS Cloud Practitioner Essentials** [cite: 38] | Amazon Web Services |
+| 🛡️ | [cite_start]**Cybersecurity Practitioner** [cite: 37] | Palo Alto Networks |
+| 🤖 | [cite_start]**Cloud Infrastructure AI Foundations** [cite: 37] | Oracle University |
+| 🔐 | [cite_start]**Cyber Security Fundamentals** [cite: 39] | IBM SkillsBuild |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanayatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanayatti&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Security is not a product, but a process."</i></p>
 </div>
