@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kethanayatti/" target="_blank">
+  <a href="https://www.linkedin.com/in/ketanayatti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://kethanportfolio.netlify.app/" target="_blank">
@@ -73,12 +73,12 @@ I'm a third-year BCA student at KLE Technological University, passionate about t
     <td width="50%">
       <h3>TechTalke - Secure Chat Platform</h3>
       <p>A full-featured MERN stack chat application with real-time messaging via Socket.io. Focused on secure deployment using Docker containers and cloud platforms like Railway. Features include user authentication, group chats, and a foundation for end-to-end encryption.</p>
-      <a href="https://github.com/kethn-tech/Techtalke.git" target="_blank">View on GitHub</a>
+      <a href="https://github.com/ketanayatti/Techtalke.git" target="_blank">View on GitHub</a>
     </td>
     <td width="50%">
       <h3>Chatzy - AI Chatbot Assistant</h3>
       <p>An intelligent chatbot built with Python and JavaScript, using a REST API for seamless frontend-backend communication. Explores Natural Language Processing (NLP) for contextual response generation. A great exercise in API design and user experience.</p>
-      <a href="https://github.com/kethn-tech/Chatzy.git" target="_blank">View on GitHub</a>
+      <a href="https://github.com/ketanayatti/Chatzy.git" target="_blank">View on GitHub</a>
     </td>
   </tr>
 </table>
@@ -88,6 +88,6 @@ I'm a third-year BCA student at KLE Technological University, passionate about t
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kethn-tech&show_icons=true&theme=radical" alt="Ketan's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethn-tech&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=radical" alt="Ketan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanayatti&layout=compact&theme=radical" alt="Top Langs">
 </div>
