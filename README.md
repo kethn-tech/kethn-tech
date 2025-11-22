@@ -51,7 +51,7 @@ I am a **BCA student** at **KLE Technological University** [cite: 8] passionate 
 
 ### 🚀 Featured Projects
 
-#### 🔒 **[Communiatec - Secure Community Platform](https://github.com/ketanayatti/Communiatec)** [cite: 21]
+#### 🔒 **[Communiatec - A platform for community connections](https://github.com/ketanayatti/Communiatec)** [cite: 21]
 *A secure platform designed for community connections with a focus on data privacy.*
 * **Tech Stack:** AWS (EC2, S3), Docker, MERN Stack, Nginx, Socket.io[cite: 22].
 * **Key Features:**
